@@ -6,6 +6,7 @@ and internal cost flows across key functional modules.
 
 ---
 
+```
 
 sap-s4hana-labs/
 ├── lab-summaries/
@@ -18,6 +19,7 @@ sap-s4hana-labs/
 │   └── Important_Figures_Log.pdf
 └── README.md
 
+```
 
 ---
 
