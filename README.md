@@ -15,8 +15,8 @@ sap-s4hana-labs/
 │   ├── Lab_3_Production_Planning.pdf
 │   ├── Lab_4_Controlling.pdf
 │   └── Lab_5_Integrated_Process.pdf
-├── case-study/
-│   └── Important_Figures_Log.pdf
+├─ case-studies/
+│  └─ ERP_MRP_Case_Study_Dupry_Beauty.pdf
 └── README.md
 
 ```
