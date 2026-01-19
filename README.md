@@ -8,15 +8,9 @@ and internal cost flows across key functional modules.
 
 ```
 
-sap-s4hana-labs/
-├── lab-summaries/
-│   ├── Lab_1_Order_to_Cash.pdf
-│   ├── Lab_2_Materials_Management.pdf
-│   ├── Lab_3_Production_Planning.pdf
-│   ├── Lab_4_Controlling.pdf
-│   └── Lab_5_Integrated_Process.pdf
-├─ case-studies/
-│  └─ ERP_MRP_Case_Study_Dupry_Beauty.pdf
+SAP-S4HANA-Labs/
+├── labsummary/          # Lab walkthrough PDFs (hands-on execution steps)
+├── case-study/          # Case study PDFs (end-to-end scenario based)
 └── README.md
 
 ```
