@@ -25,14 +25,14 @@ SAP-S4HANA-Labs/
 - Sales order processing
 - Delivery, billing, and payment posting
 
-- Key focus: Document flow validation + logistics-to-finance integration
+**Key focus:** _Document flow validation + logistics-to-finance integration_
 
 ### Materials Management (MM)
 - Procurement process
 - Goods receipt (GR)
 - Inventory management
 
-- Key focus: Material movement impact on inventory and business process traceability
+**Key focus:** _Material movement impact on inventory and business process traceability
 
 ### Production Planning & Execution (PP)
 - BOM explosion
@@ -40,7 +40,7 @@ SAP-S4HANA-Labs/
 - Production orders
 - Goods receipt from production
 
-- Key focus: How production planning drives execution and operational records
+**Key focus:** _How production planning drives execution and operational records
 
 ### Controlling (CO-CCA & CO-PC)
 - Cost center accounting
@@ -48,7 +48,7 @@ SAP-S4HANA-Labs/
 - Activity pricing
 - Product costing & standard price calculation
 
-- Key focus: Understanding cost objects and how costs are calculated and assigned
+**Key focus:** _Understanding cost objects and how costs are calculated and assigned
 
 ---
 
@@ -59,7 +59,7 @@ End-to-end production scenario using SAP system-calculated quantities and postin
 - Analysis using system-generated results
 - Cost flow tracking via Important Figures Log
 
-- Key focus: Connecting execution results to cost flow interpretation
+**Key focus:** _Connecting execution results to cost flow interpretation
 
 ---
 
