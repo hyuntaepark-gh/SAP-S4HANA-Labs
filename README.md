@@ -1,77 +1,75 @@
-# 🧩 SAP S/4HANA Labs – ERP Process & Cost Flow Analysis
+# SAP S/4HANA Labs – ERP Process & Cost Flow Analysis
 
-End-to-end **SAP S/4HANA hands-on labs** using the **Global Bike (GBI)** dataset.  
-This repository documents key **ERP business processes** and **cost flow tracking** across modules such as **SD, MM, PP, and CO**.
+Hands-on SAP S/4HANA lab exercises using the **Global Bike (GBI)** dataset.  
+This repository documents end-to-end ERP business processes and how data flows across key modules such as **SD, MM, PP, FI, and CO**.
 
-> 🎯 Goal: Not just “learning SAP”, but demonstrating I can **execute transactions**, **validate document flow**, and **explain how costs move through an ERP system**.
-
----
-
-```
-
-SAP-S4HANA-Labs/
-├── labsummary/          # Lab walkthrough PDFs (hands-on execution steps)
-├── case-study/          # Case study PDFs (end-to-end scenario based)
-└── README.md
-
-```
+**Goal:** Demonstrate practical understanding of ERP workflows, process integration, and cost flow concepts through SAP S/4HANA labs.
 
 ---
 
-## 📘 Lab Coverage
+## 📌 Project Overview
 
-### Order-to-Cash (SD & FI)
-- Customer master data creation
-- Sales order processing
-- Delivery, billing, and payment posting
+This repository covers:
 
-🔑 **Key focus:** Document flow validation + logistics-to-finance integration_
-
-### Materials Management (MM)
-- Procurement process
-- Goods receipt (GR)
-- Inventory management
-
-🔑 **Key focus:** Material movement impact on inventory and business process traceability
-
-### Production Planning & Execution (PP)
-- BOM explosion
-- Routing
-- Production orders
-- Goods receipt from production
-
-🔑 **Key focus:** How production planning drives execution and operational records
-
-### Controlling (CO-CCA & CO-PC)
-- Cost center accounting
-- Overhead allocation
-- Activity pricing
-- Product costing & standard price calculation
-
-🔑 **Key focus:** Understanding cost objects and how costs are calculated and assigned
+- End-to-end ERP process execution in SAP S/4HANA
+- Business document flow (Order → Delivery → Billing → Accounting)
+- Procurement and inventory movement lifecycle
+- Production planning fundamentals (BOM, routing, production orders)
+- Controlling and cost flow concepts
+- Integrated process flow across multiple modules
 
 ---
 
-## 📊 Case Study
-Tricycle Production Scenario
-End-to-end production scenario using SAP system-calculated quantities and postings:
-- Tricycle production workflow execution
-- Analysis using system-generated results
-- Cost flow tracking via Important Figures Log
+## 🧩 Lab Summaries
 
-🔑 **Key focus:** Connecting execution results to cost flow interpretation
+All lab documents are available in the [`labsummary/`](./labsummary) folder.
+
+| Lab | Topic | Modules | Key Learning Outcome |
+|-----|------|---------|----------------------|
+| Lab 1 | Order-to-Cash (O2C) | SD → FI | Executed the sales lifecycle from sales order to billing and payment |
+| Lab 2 | Materials Management | MM | Practiced the procurement lifecycle (PO → Goods Receipt → Inventory updates) |
+| Lab 3 | Production Planning | PP | Worked with BOM/routing and production order execution flow |
+| Lab 4 | Controlling | CO | Explored cost elements and basic cost flow/controlling concepts |
+| Lab 5 | Integrated Process | SD + MM + FI + CO | Validated end-to-end integration and data flow across modules |
+
+📄 Files:
+- [`Lab_1_Order_to_Cash.pdf`](./labsummary/Lab_1_Order_to_Cash.pdf)
+- [`Lab_2_Materials_Management.pdf`](./labsummary/Lab_2_Materials_Management.pdf)
+- [`Lab_3_Production_Planning.pdf`](./labsummary/Lab_3_Production_Planning.pdf)
+- [`Lab_4_Controlling.pdf`](./labsummary/Lab_4_Controlling.pdf)
+- [`Lab_5_Integrated_Process.pdf`](./labsummary/Lab_5_Integrated_Process.pdf)
 
 ---
 
-## 🛠️ Tools & Environment
-- SAP S/4HANA
+## 📚 Case Study
+
+The case study document is available in the [`case-study/`](./case-study) folder.
+
+- [`ERP_MRP_Case_Study_Dupry_Beauty.pdf`](./case-study/ERP_MRP_Case_Study_Dupry_Beauty.pdf)  
+  A structured case study focused on MRP-related planning and ERP process reasoning.
+
+---
+
+## 🛠 Tools & Environment
+
+- SAP S/4HANA (Lab environment)
 - Global Bike (GBI) dataset
-- ERP process execution & documentation (PDF walkthroughs)
-- Cost flow interpretation across modules
+- ERP modules: SD, MM, PP, FI, CO
 
 ---
 
-## 🎯 Key Takeaways
-- End-to-end ERP process understanding across logistics and finance modules
-- Ability to validate cross-module integration using real SAP transaction flows
-- Practical understanding of how operational actions impact financial and cost outcomes
+## 🔍 Key Takeaways
+
+- ERP is a process-driven integrated system, not just a collection of transactions
+- Document flow and cross-module integration (e.g., SD → FI, MM → Inventory) became clearer through hands-on execution
+- Improved understanding of how operational activities connect to accounting and cost tracking
+
+---
+
+## 📁 Repository Structure
+
+```text
+SAP-S4HANA-Labs/
+├── labsummary/          # Lab PDF summaries (O2C, MM, PP, CO, Integration)
+├── case-study/          # Case study PDF
+└── README.md
