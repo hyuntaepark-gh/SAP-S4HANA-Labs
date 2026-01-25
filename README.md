@@ -31,11 +31,11 @@ All lab documents are available in the `labsummary/` folder.
 
 | Lab | Topic | Modules | Key Learning Outcome |
 |---|---|---|---|
-| [Lab 1](./labsummary/Lab%201%20Order%20to%20Cash.pdf) | Order-to-Cash (O2C) | SD → FI | Executed the sales lifecycle from sales order to billing and payment |
-| [Lab 2](./labsummary/Lab%202%20Materials%20Management.pdf) | Materials Management | MM | Practiced the procurement lifecycle (PO → Goods Receipt → Inventory updates) |
-| [Lab 3](./labsummary/Lab%203%20Production%20Planning.pdf) | Production Planning | PP | Worked with BOM/routing and production order execution flow |
-| [Lab 4](./labsummary/Lab%204%20Controlling.pdf) | Controlling | CO | Explored cost elements and basic cost flow/controlling concepts |
-| [Lab 5](./labsummary/Lab%205%20Integrated%20Process.pdf) | Integrated Process | SD + MM + FI + CO | Validated end-to-end integration and data flow across modules |
+| [Lab 1](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs/blob/main/labsummary/Lab%201_Order_to_cash.pdf) | Order-to-Cash (O2C) | SD → FI | Executed the sales lifecycle from sales order to billing and payment |
+| [Lab 2](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs/blob/main/labsummary/Lab%202_Materials_Management.pdf) | Materials Management | MM | Practiced the procurement lifecycle (PO → Goods Receipt → Inventory updates) |
+| [Lab 3](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs/blob/main/labsummary/Lab%203_Production_Planning.pdf) | Production Planning | PP | Worked with BOM/routing and production order execution flow |
+| [Lab 4](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs/blob/main/labsummary/Lab%204_Controlling.pdf) | Controlling | CO | Explored cost elements and basic cost flow/controlling concepts |
+| [Lab 5](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs/blob/main/labsummary/Lab%205_Integrated_Process.pdf) | Integrated Process | SD + MM + FI + CO | Validated end-to-end integration and data flow across modules |
 
 ---
 
