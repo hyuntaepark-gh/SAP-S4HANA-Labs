@@ -27,22 +27,15 @@ This repository is built to demonstrate practical understanding of **end-to-end 
 
 ## 🧩 Lab Summaries
 
-All lab documents are available in the [`labsummary/`](./labsummary) folder.
+All lab documents are available in the `labsummary/` folder.
 
 | Lab | Topic | Modules | Key Learning Outcome |
-|-----|------|---------|----------------------|
-| Lab 1 | Order-to-Cash (O2C) | SD → FI | Executed the sales lifecycle from sales order to billing and payment |
-| Lab 2 | Materials Management | MM | Practiced the procurement lifecycle (PO → Goods Receipt → Inventory updates) |
-| Lab 3 | Production Planning | PP | Worked with BOM/routing and production order execution flow |
-| Lab 4 | Controlling | CO | Explored cost elements and basic cost flow/controlling concepts |
-| Lab 5 | Integrated Process | SD + MM + FI + CO | Validated end-to-end integration and data flow across modules |
-
-📄 Files:
-- [`Lab_1_Order_to_Cash.pdf`](./labsummary/Lab_1_Order_to_Cash.pdf)
-- [`Lab_2_Materials_Management.pdf`](./labsummary/Lab_2_Materials_Management.pdf)
-- [`Lab_3_Production_Planning.pdf`](./labsummary/Lab_3_Production_Planning.pdf)
-- [`Lab_4_Controlling.pdf`](./labsummary/Lab_4_Controlling.pdf)
-- [`Lab_5_Integrated_Process.pdf`](./labsummary/Lab_5_Integrated_Process.pdf)
+|---|---|---|---|
+| [Lab 1](labsummary/Lab_1_Order_to_Cash.pdf) | Order-to-Cash (O2C) | SD → FI | Executed the sales lifecycle from sales order to billing and payment |
+| [Lab 2](labsummary/Lab_2_Materials_Management.pdf) | Materials Management | MM | Practiced the procurement lifecycle (PO → Goods Receipt → Inventory updates) |
+| [Lab 3](labsummary/Lab_3_Production_Planning.pdf) | Production Planning | PP | Worked with BOM/routing and production order execution flow |
+| [Lab 4](labsummary/Lab_4_Controlling.pdf) | Controlling | CO | Explored cost elements and basic cost flow/controlling concepts |
+| [Lab 5](labsummary/Lab_5_Integrated_Process.pdf) | Integrated Process | SD + MM + FI + CO | Validated end-to-end integration and data flow across modules |
 
 ---
 
