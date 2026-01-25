@@ -1,27 +1,27 @@
 # SAP S/4HANA Labs – ERP Process & Document Flow (Global Bike)
 
-This repository contains **hands-on SAP S/4HANA lab exercises** using the **Global Bike (GBI)** dataset.  
-The goal of this project is to build practical understanding of **end-to-end ERP business processes** and how transactions are connected through **SAP document flow**.
+Hands-on **SAP S/4HANA lab exercises** using the **Global Bike (GBI)** dataset.  
+This repository is built to demonstrate practical understanding of **end-to-end ERP processes** and how SAP transactions connect through **Document Flow**.
 
-> 📌 Note: Some fields in screenshots are intentionally masked for privacy/security.
+> 🔒 Note: Some fields in screenshots are intentionally masked for privacy/security.
 
 ---
 
-## 🎯 Project Objectives
-- Practice SAP S/4HANA navigation and key transaction screens
-- Understand core ERP process flows (Purchasing / Inventory / Document Flow)
-- Verify how business documents are linked and traced in SAP
-- Build a portfolio-ready record of hands-on SAP learning
+## 🎯 Project Goals
+- Build familiarity with SAP S/4HANA navigation and key screens  
+- Understand how business transactions are created and tracked in SAP  
+- Practice procurement & inventory-related process flows  
+- Create a portfolio-ready record of hands-on SAP learning  
 
 ---
 
 ## ✅ What I Practiced
-- SAP GUI navigation & screen familiarity
+- SAP GUI navigation and screen structure
 - Search help (F4) and selection criteria usage
-- Purchasing Documents selection & filtering
-- Basic procurement flow (PR / PO concept)
-- Goods Receipt (GR) posting and document confirmation
-- Document Flow tracking (end-to-end verification)
+- Purchasing Documents filtering & lookup
+- Basic procurement flow concepts (PR / PO)
+- Goods Receipt (GR) posting and confirmation
+- Document Flow tracking and verification
 
 ---
 
@@ -47,13 +47,13 @@ All lab documents are available in the [`labsummary/`](./labsummary) folder.
 ---
 
 ## 📸 Screenshots (Lab Evidence)
-Selected screenshots are included to show hands-on execution and key SAP screens.
+This repository includes selected screenshots to show hands-on execution and key SAP screens.
 
-> 📌 Tip: I recommend viewing screenshots in full size for better readability.
-
-Example:
+### Example
 - Purchasing Documents – Selection Screen  
   ![](screenshots/step09_purchasing_documents_search_criteria.png)
+
+> 📌 Tip: Open the image in a new tab for full-size viewing.
 
 ---
 
