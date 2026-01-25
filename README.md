@@ -88,7 +88,7 @@ The case study document is available in the [`case-study/`](./case-study) folder
 SAP-S4HANA-Labs/
 ├── labsummary/          # Lab PDF summaries (O2C, MM, PP, CO, Integration)
 ├── case-study/          # Case study PDF
-├── screenshot/
+├── screenshot/          # Selected screenshots from SAP execution (evidence of hands-on practice)
 └── README.md
 
 ```
