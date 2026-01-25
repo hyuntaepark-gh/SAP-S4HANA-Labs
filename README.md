@@ -1,22 +1,27 @@
-# SAP S/4HANA Labs – ERP Process & Cost Flow Analysis
+# SAP S/4HANA Labs – ERP Process & Document Flow (Global Bike)
 
-Hands-on SAP S/4HANA lab exercises using the **Global Bike (GBI)** dataset.  
-This repository documents end-to-end ERP business processes and how data flows across key modules such as **SD, MM, PP, FI, and CO**.
+This repository contains **hands-on SAP S/4HANA lab exercises** using the **Global Bike (GBI)** dataset.  
+The goal of this project is to build practical understanding of **end-to-end ERP business processes** and how transactions are connected through **SAP document flow**.
 
-**Goal:** Demonstrate practical understanding of ERP workflows, process integration, and cost flow concepts through SAP S/4HANA labs.
+> 📌 Note: Some fields in screenshots are intentionally masked for privacy/security.
 
 ---
 
-## 📌 Project Overview
+## 🎯 Project Objectives
+- Practice SAP S/4HANA navigation and key transaction screens
+- Understand core ERP process flows (Purchasing / Inventory / Document Flow)
+- Verify how business documents are linked and traced in SAP
+- Build a portfolio-ready record of hands-on SAP learning
 
-This repository covers:
+---
 
-- End-to-end ERP process execution in SAP S/4HANA
-- Business document flow (Order → Delivery → Billing → Accounting)
-- Procurement and inventory movement lifecycle
-- Production planning fundamentals (BOM, routing, production orders)
-- Controlling and cost flow concepts
-- Integrated process flow across multiple modules
+## ✅ What I Practiced
+- SAP GUI navigation & screen familiarity
+- Search help (F4) and selection criteria usage
+- Purchasing Documents selection & filtering
+- Basic procurement flow (PR / PO concept)
+- Goods Receipt (GR) posting and document confirmation
+- Document Flow tracking (end-to-end verification)
 
 ---
 
@@ -42,13 +47,13 @@ All lab documents are available in the [`labsummary/`](./labsummary) folder.
 ---
 
 ## 📸 Screenshots (Lab Evidence)
-This repository includes selected screenshots from SAP S/4HANA labs to demonstrate hands-on execution of key ERP processes.
+Selected screenshots are included to show hands-on execution and key SAP screens.
 
-- Purchasing Documents (Selection Screen)
-- Material Search (F4 Help)
-- Purchase Requisition / Purchase Order flow
-- Goods Receipt & Posting
-- Document Flow verification
+> 📌 Tip: I recommend viewing screenshots in full size for better readability.
+
+Example:
+- Purchasing Documents – Selection Screen  
+  ![](screenshots/step09_purchasing_documents_search_criteria.png)
 
 ---
 
@@ -69,11 +74,10 @@ The case study document is available in the [`case-study/`](./case-study) folder
 
 ---
 
-## 🔍 Key Takeaways
-
-- ERP is a process-driven integrated system, not just a collection of transactions
-- Document flow and cross-module integration (e.g., SD → FI, MM → Inventory) became clearer through hands-on execution
-- Improved understanding of how operational activities connect to accounting and cost tracking
+## 📌 Notes
+- This repository is intended for **learning and portfolio demonstration** purposes.
+- Lab PDFs and materials belong to their respective owners/instructor.
+- Screenshots may include masked values for privacy/security.
 
 ---
 
