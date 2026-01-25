@@ -41,6 +41,17 @@ All lab documents are available in the [`labsummary/`](./labsummary) folder.
 
 ---
 
+## 📸 Screenshots (Lab Evidence)
+This repository includes selected screenshots from SAP S/4HANA labs to demonstrate hands-on execution of key ERP processes.
+
+- Purchasing Documents (Selection Screen)
+- Material Search (F4 Help)
+- Purchase Requisition / Purchase Order flow
+- Goods Receipt & Posting
+- Document Flow verification
+
+---
+
 ## 📚 Case Study
 
 The case study document is available in the [`case-study/`](./case-study) folder.
