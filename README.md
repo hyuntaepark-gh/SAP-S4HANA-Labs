@@ -39,15 +39,21 @@ The case study document is available in the [`case-study/`](./case-study) folder
 
 ---
 
-## 📷 Screenshot Evidence (Selected)
+### 📌 Selected Screenshot Highlights
 
-Selected screenshots are available in the [`screenshot/`](./screenshot) folder as proof of hands-on execution.
+#### SD — Quotation & Pricing
+![SD Quotation Overview](screenshot/01_SD_VA21_Quotation_Overview.png)
+![SD Pricing Elements](screenshot/01_SD_VA21_Quotation_PricingElements.png)
 
-Example highlights:
-- SD: Quotation creation and pricing conditions
-- MM: Purchase Order → Goods Receipt → follow-on document flow
-- PP: Material master update (MRP view)
-- FI: GL account balance validation
+#### MM — Purchase Order & Goods Receipt
+![MM Create PO (ME21N)](screenshot/02_MM_ME21N_CreatePO_ItemOverview.png)
+![MM Goods Receipt (MIGO)](screenshot/02_MM_MIGO_GoodsReceipt_PostForPO.png)
+
+#### PP — Material Master (MRP View)
+![PP Change Material MRP View](screenshot/03_PP_MM02_ChangeMaterial_MRPView.png)
+
+#### FI — GL Account Balance Validation
+![FI GL Account Balance](screenshot/04_FI_FS10N_GLAccount_BalanceDisplay.png)
 
 ---
 
