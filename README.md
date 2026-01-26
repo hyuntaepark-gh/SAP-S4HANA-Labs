@@ -1,4 +1,4 @@
-# SAP-S4HANA-Labs
+# 🏢 SAP-S4HANA-Labs
 
 Hands-on **SAP S/4HANA** lab portfolio covering end-to-end ERP workflows using the **Global Bike (GBI)** dataset.  
 This repository documents practical execution across **SD / MM / PP / FI / CO** modules with lab summaries and selected screenshots.
