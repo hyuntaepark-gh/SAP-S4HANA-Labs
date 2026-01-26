@@ -39,14 +39,37 @@ All lab documents are available in the `labsummary/` folder.
 
 ---
 
-## 📸 Screenshots (Lab Evidence)
-This repository includes selected screenshots to show hands-on execution and key SAP screens.
+## 🧾 SAP S/4HANA Lab Evidence (Global Bike Case)
 
-### Example
-- Purchasing Documents – Selection Screen  
-  ![](screenshots/step09_purchasing_documents_search_criteria.png)
+This section contains screenshots from SAP UCC training labs to demonstrate hands-on experience across key ERP processes.
 
-> 📌 Tip: Open the image in a new tab for full-size viewing.
+### 1) SAP Navigation / System Access
+![SAP Easy Access](docs/screenshots/SAP_EasyAccess_MainMenu_NavigationTree.png)
+
+### 2) Material / MRP Setup (Production Planning)
+![MRP View](docs/screenshots/Step01_PP_ChangeMaterial_MRPView.png)
+
+### 3) Purchasing Documents Search
+![Purchasing Documents](docs/screenshots/Step09_Purchasing_PurchasingDocuments_SearchCriteria.png)
+
+### 4) Create Purchase Order (PO)
+![Create PO](docs/screenshots/Step10_MM_CreatePurchaseOrder_ItemOverview.png)
+
+### 5) PO Conditions & Delivery Schedule
+![PO Conditions & Delivery Schedule](docs/screenshots/Step10_MM_PO_Conditions_And_Delivery_Schedule.png)
+
+### 6) Display Purchase Order (Validation)
+![Display PO](docs/screenshots/Step11_MM_DisplayPurchaseOrder_POOverview.png)
+
+### 7) Goods Receipt (GR) for Purchase Order
+![GR Create](docs/screenshots/Step16_MM_GoodsReceipt_InitialScreen.png)
+![GR Posted](docs/screenshots/Step16_MM_GoodsReceipt_Create_GRforPO.png)
+
+### 8) PO History / Follow-on Documents
+![PO History](docs/screenshots/Step17_MM_PO_History_FollowOnDocuments.png)
+
+### 9) FI Impact (G/L Balance Display)
+![G/L Balance](docs/screenshots/Step18_FI_GLAccount_BalanceDisplay.png)
 
 ---
 
