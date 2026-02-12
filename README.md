@@ -1,5 +1,16 @@
 # 🏢 SAP-S4HANA-Labs
 
+![SAP S4HANA](https://img.shields.io/badge/SAP-S%2F4HANA-0FAAFF?logo=sap&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-Business%20Processes-0A66C2)
+![SD Module](https://img.shields.io/badge/SD-Sales%20%26%20Distribution-6A1B9A)
+![MM Module](https://img.shields.io/badge/MM-Materials%20Management-2E7D32)
+![PP Module](https://img.shields.io/badge/PP-Production%20Planning-FF6F00)
+![FI Module](https://img.shields.io/badge/FI-Financial%20Accounting-795548)
+![CO Module](https://img.shields.io/badge/CO-Controlling-FF7043)
+![Order to Cash](https://img.shields.io/badge/O2C-Process%20Flow-00897B)
+![Cross Module](https://img.shields.io/badge/Cross--Module-Integration-1E88E5)
+![Business Workflow](https://img.shields.io/badge/Business-Workflow-232F3E)
+
 Hands-on **SAP S/4HANA** lab portfolio covering end-to-end ERP workflows using the **Global Bike (GBI)** dataset.  
 This repository documents practical execution across **SD / MM / PP / FI / CO** modules with lab summaries and selected screenshots.
 
