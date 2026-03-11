@@ -95,6 +95,10 @@ It demonstrates the ability to explain **why ERP outcomes occur**, not only how 
 
 # 🖼️ Selected Screenshot Highlights
 
+### SAP System Environment
+
+![SAP Easy Access](screenshot/SAP_EasyAccess_MainMenu.png)
+
 These screenshots provide evidence of hands-on execution in SAP S/4HANA across major modules.
 
 ### SD — Quotation & Pricing
@@ -173,6 +177,17 @@ Example integration demonstrated in these labs:
 | Accounting validation | FI | FS10N / FBL1N |
 
 This cross-module interaction highlights how **ERP systems synchronize operational activities with financial outcomes.**
+
+---
+
+# 💡 Key Takeaways from SAP Labs
+
+Through these SAP S/4HANA labs, several important ERP concepts became clear:
+
+- ERP systems are **process-driven**, not just collections of individual modules.
+- Operational transactions (sales, procurement, production) are tightly linked to **financial accounting impacts**.
+- **Document flow** enables traceability across business processes.
+- Cross-module integration (SD → MM → FI → CO) ensures operational and financial consistency.
 
 ---
 
