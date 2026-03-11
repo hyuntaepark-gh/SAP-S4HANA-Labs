@@ -186,16 +186,33 @@ XX_MODULE_TCODE_ScreenName_Action.png
 
 Examples from this repository:
 
-```
-01_SD_VA21_Quotation_Overview.png
-01_SD_VA21_Quotation_PricingElements.png
-02_MM_ME21N_CreatePO_ItemOverview.png
-02_MM_MIGO_GoodsReceipt_PostForPO.png
-03_PP_MM02_ChangeMaterial_MRPView.png
-04_FI_FS10N_GLAccount_BalanceDisplay.png
-04_FI_F53_PostOutgoingPayment_SelectOpenItems.png
-04_FI_FBL1N_VendorLineItems_APBalanceReview.png
-```
+### SD — Sales Quotation
+
+![Quotation Overview](screenshot/01_SD_VA21_Quotation_Overview.png)
+
+![Pricing Elements](screenshot/01_SD_VA21_Quotation_PricingElements.png)
+
+---
+
+### MM — Purchase Order
+
+![Create Purchase Order](screenshot/02_MM_ME21N_CreatePO_ItemOverview.png)
+
+![Goods Receipt](screenshot/02_MM_MIGO_GoodsReceipt_PostForPO.png)
+
+---
+
+### PP — Production Planning
+
+![Material MRP View](screenshot/03_PP_MM02_ChangeMaterial_MRPView.png)
+
+---
+
+### FI — Financial Accounting
+
+![GL Account Balance](screenshot/04_FI_FS10N_GLAccount_BalanceDisplay.png)
+
+![Vendor Line Items](screenshot/04_FI_FBL1N_VendorLineItems_APBalanceReview.png)
 
 This naming convention ensures screenshots are organized by:
 
